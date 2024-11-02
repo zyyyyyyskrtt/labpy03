@@ -1,4 +1,9 @@
 # labpy03
+Nama
+Nim
+Kelas
+Mata kuliah
+## Latihan1
 Alur Algoritma Latihan1 :
  1. Mulai Program :
     - Import modul random.
@@ -17,6 +22,7 @@ Alur Algoritma Latihan1 :
  7. Selesai:
     - Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
 
+## Latihan2
 Alur Algoritma Latihan2 :
  1. Mulai Program:
     - Inisialisasi modal awal sebesar Rp 100.000.000.
@@ -37,6 +43,7 @@ Alur Algoritma Latihan2 :
  8. Selesai:
     - Program selesai.
 
+## Latihan3
 Alur Algoritma Latihan3 :
  1. Mulai Program:
     - Inisialisasi saldo awal sebesar Rp 1.000.000.
