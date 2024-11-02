@@ -1,8 +1,8 @@
 # labpy03
-Nama : Razy Al Farisi
-Nim : 312410
-Kelas : TI.24.A.5
-Mata kuliah : Bahasa pemrpgraman
+Nama : Razy Al Farisi <p>
+Nim : 312410524 <p>
+Kelas : TI.24.A.5 <p>
+Mata kuliah : Bahasa pemrpgraman <p>
 ## Latihan1
 Alur Algoritma Latihan1 :
  1. Mulai Program :
@@ -22,9 +22,9 @@ Alur Algoritma Latihan1 :
  7. Selesai:
     - Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
 ### Program python
-![gambar 1](ss1)
+![gambar 1](ss1.png)
 ### Hasil program
-![gambar 2](ss2)
+![gambar 2](ss2.png)
 
 ## Latihan2
 Alur Algoritma Latihan2 :
@@ -47,9 +47,9 @@ Alur Algoritma Latihan2 :
  8. Selesai:
     - Program selesai.
 ### Program python
-![gambar 3](ss3)
+![gambar 3](ss3.png)
 ### Hasil program
-![gambar 4](ss4)
+![gambar 4](ss4.png)
 
 ## Latihan3
 Alur Algoritma Latihan3 :
@@ -77,6 +77,6 @@ Alur Algoritma Latihan3 :
  5. Ulangi Proses:
     - Kembali ke langkah 2 hingga pengguna memilih untuk keluar.
 ### Program python
-![gambar 5](ss5)
+![gambar 5](ss5.png)
 ### Hasil program
-![gambar 6](ss6)
+![gambar 6](ss6.png)
