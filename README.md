@@ -1,8 +1,8 @@
 # labpy03
-Nama
-Nim
-Kelas
-Mata kuliah
+Nama : Razy Al Farisi
+Nim : 312410
+Kelas : TI.24.A.5
+Mata kuliah : Bahasa pemrpgraman
 ## Latihan1
 Alur Algoritma Latihan1 :
  1. Mulai Program :
@@ -21,6 +21,10 @@ Alur Algoritma Latihan1 :
     - Ulangi langkah 4 dan 5 hingga count mencapai nilai n.
  7. Selesai:
     - Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
+### Program python
+![gambar 1](ss1)
+### Hasil program
+![gambar 2](ss2)
 
 ## Latihan2
 Alur Algoritma Latihan2 :
@@ -42,6 +46,10 @@ Alur Algoritma Latihan2 :
     - Setelah loop selesai, cetak total keuntungan selama 8 bulan.
  8. Selesai:
     - Program selesai.
+### Program python
+![gambar 3](ss3)
+### Hasil program
+![gambar 4](ss4)
 
 ## Latihan3
 Alur Algoritma Latihan3 :
@@ -68,3 +76,7 @@ Alur Algoritma Latihan3 :
       > Tampilkan pesan “Pilihan tidak valid. Silakan coba lagi.”
  5. Ulangi Proses:
     - Kembali ke langkah 2 hingga pengguna memilih untuk keluar.
+### Program python
+![gambar 5](ss5)
+### Hasil program
+![gambar 6](ss6)
